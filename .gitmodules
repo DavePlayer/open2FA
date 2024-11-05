@@ -1,0 +1,6 @@
+[submodule "phoneApp"]
+	path = phoneApp
+	url = https://github.com/DavePlayer/open2FA-phone
+[submodule "webTestApp"]
+	path = webTestApp
+	url = https://github.com/DavePlayer/open2FA-webapp
