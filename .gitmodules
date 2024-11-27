@@ -4,3 +4,6 @@
 [submodule "webTestApp"]
 	path = webTestApp
 	url = https://github.com/DavePlayer/open2FA-webapp
+[submodule "Relay Server"]
+    path = Relay Server
+    url = git@github.com:DavePlayer/Open2Fa-Relay.git
